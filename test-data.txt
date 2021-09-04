@@ -1,4 +1,9 @@
-1.
+
+  ÍÀÁÎĞÛ ÄÀÍÍÛÕ ÄËß ÒÅÑÒÈĞÎÂÀÍÈß ÊÎÄÀ JAVA
+          âÀËÈÄÍÛÅ ÇÍÀ×ÅÍÈß 
+
+
+1.A
 
 Card Type:Mastercard
 
@@ -138,7 +143,7 @@ Country:United States
 
 Card Type:Visa
 
-Card Number: 4929662768365068458    FAIL
+Card Number: 4556205920190399    OK
 
 CVV:490
 
@@ -155,7 +160,7 @@ Country:Bulgaria
 
 Card Type:Discover
 
-Card Number: 6011767539880922944       FAIL
+Card Number: 6011156631208570       OK
 
 CVV:904
 

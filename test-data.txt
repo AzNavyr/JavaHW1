@@ -1,0 +1,168 @@
+1.
+
+Card Type:Mastercard
+
+Card Number: 5132957425038370    OK
+
+CVV:213
+
+Expires:06/2026
+
+Name:Nelson Gonzalez
+
+Address:5734 Glenview Drive
+
+Country:Finland
+
+============================
+2.
+
+Card Type:Visa
+
+Card Number: 4018732996818142   OK
+
+CVV:804
+
+Expires:12/2025
+
+Name:Bobby Fortin
+
+Address:3751 Wayback Lane
+
+Country:United States
+
+============================
+3.
+
+Card Type:Visa
+
+Card Number: 4546232953146950    OK  
+
+CVV:829
+
+Expires:08/2023
+
+Name:Miguel Decker
+
+Address:293 Tanglewood Road
+
+Country:Thailand
+
+=============================
+4.
+
+Card Type:Mastercard
+
+Card Number: 5365708165246634    OK
+
+CVV:702
+
+Expires:04/2025
+
+Name:Helena Taylor
+
+Address:1830 Lake Forest Drive
+
+Country:Venezuela
+
+==============================
+5.
+
+Card Type:Visa
+
+Card Number: 4524141695264748    OK
+     
+CVV:670
+
+Expires:09/2026
+
+Name:Shane Kirk
+
+Address:303 Pine Street
+
+Country:Costa Rica
+
+=============================
+6.
+
+Card Type:Amex
+
+Card Number: 375489374189340    FAIL
+ 
+CVV:241
+
+Expires:08/2023
+
+Name:Brandon Milburn
+
+Address:1944 Oral Lake Road
+
+Country:Norway
+
+=============================
+7.
+
+Card Type:Amex
+
+Card Number: 376471738340958     FAIL
+
+CVV:820
+
+Expires:07/2023
+
+Name:Tina Merkley
+
+Address:160 Griffin Street
+
+Country:Brazil
+
+=============================
+8.
+
+Card Type:Discover
+
+Card Number: 6460024108191693     OK
+
+CVV:442
+
+Expires:10/2026
+
+Name:Suzanne Silvis
+
+Address:5148 Levy Court
+
+Country:United States
+
+=============================
+9.
+
+Card Type:Visa
+
+Card Number: 4929662768365068458    FAIL
+
+CVV:490
+
+Expires:04/2023
+
+Name:Kathy Meas
+
+Address:5165 Huntz Lane
+
+Country:Bulgaria
+
+=============================
+10.
+
+Card Type:Discover
+
+Card Number: 6011767539880922944       FAIL
+
+CVV:904
+
+Expires:01/2025
+
+Name:Evelyn Marchese
+
+Address:1711 Jehovah Drive
+
+Country:United States
